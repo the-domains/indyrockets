@@ -1,14 +1,26 @@
-layout_spectrum: 0.1783568
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.6543871
 color:
   saturation: 0.8965279
-  lightness: 0.9981186
   brandStrength: 0.8854638
-  rhythmicContrast: 0.7229751
+  lightness: 0.9981186
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#778953'
+    - '#0F161F'
+    - '#D7B44A'
+    - '#9A6601'
+    - '#5CA2C5'
+  rhythmicContrast: 0.7229751
+layout_spectrum: 0.1783568
 name: IndyRockets
