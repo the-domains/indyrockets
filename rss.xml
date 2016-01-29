@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[IndyRockets]]></title>
+        <description><![CDATA[IndyRockets]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 06:01:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test 123]]></title>
+            <description><![CDATA[<article><h1>Test 123</h1><p>From ROCINews - Volume 1, Issue 8 Here is another useful little item that you can make from PVC pipe. It is a cradle you can use to hold your rocket while prepping, transporting, or just for displaying. What I like about it is that you can make it any size you need.</p><img src="http://www.nws.noaa.gov/weather/images/fcicons/hi_shwrs30.jpg"></article>]]></description>
+            <link>http://www.indyrockets.org/</link>
+            <guid isPermaLink="false">2af2a50b-7af8-4196-9048-16e40b04bb31</guid>
+            <pubDate>Fri, 29 Jan 2016 06:00:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
